@@ -1,0 +1,59 @@
+<html>
+<head>
+  <title>Olino, des bons petits chats tout chauds</title>
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+
+  <script type="text/javascript" src="lib/coffee-script.js"></script>
+  <script type="text/coffeescript" src="src/Chaton.coffee"></script>
+  <script type="text/coffeescript" src="src/Planete.coffee"></script>
+
+  <script type="text/coffeescript">
+    z = new Chaton
+      position: { x: 30, y: 60 }
+      vitesse: { x: 3, y: 0 }
+
+    zzx = document.getElementById 'olino'
+    zz = zzx.getContext '2d'
+
+    x =
+      allume: ({x,y:z},zx)->
+        zz.fillStyle = zx
+        zz.fillRect x,z,10,10
+      planetise: ({x,y:z}, zx)->
+        zz.fillStyle = zx
+        zz.fillRect x-30,z-30,60,60
+
+    ж = new Planete
+      position: { x: 280, y: 114 }
+      couleur: 'cyan'
+    
+    zzz = ->
+      z.ouge()
+      z.position.x = 0 if z.position.x > zzx.width
+      z.position.y = 0 if z.position.y > zzx.height
+      z.coloにse ж
+      zz.fillStyle = "rgba(0, 0, 0, 0.05)"
+      zz.fillRect 0, 0, zzx.width, zzx.height
+      xxxxxx.montre_toi_au x for xxxxxx in [z, ж]
+
+    setInterval zzz , 50
+
+    
+    #zzx.addEventListener 'keypo
+    addEventListener 'keypress', (event)->
+      console.log event
+      z.みcrofuse 1 if event.charCode == 106
+      z.みcrofuse -1 if event.charCode == 107
+
+    zzx.focus()
+  </script>
+  <style>
+    body { margin:0; }
+  </style>
+</head>
+<body>
+  <canvas id="olino" tabstop="1" style="background:black"></canvas>
+</body>
+</html>
+
+
