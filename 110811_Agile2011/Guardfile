@@ -1,0 +1,13 @@
+guard 'coffeescript', :output => 'src' do
+  watch(%r{^src/(.*)\.coffee})
+end
+
+guard 'coffeescript', :output => 'spec' do
+  watch(%r{^spec/(.*)\.coffee})
+end
+
+guard 'livereload', :apply_js_live => false do
+  watch(%r{^.+\.html$})
+  watch(%r{^spec/.+\.js$})
+  watch(%r{^src/.+\.js$})
+end
