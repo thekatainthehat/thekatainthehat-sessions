@@ -1,0 +1,507 @@
+Agilité = discipline et rigueur ?
+
+L’Agilité. Liberté pour les uns, chaos pour les autres. La liberté de choisir comment on veut travailler vient avec la responsabilité de livrer ce que nous promettons. La réussite d’un projet Agile demande de la discipline et de la rigeur. Cela vous semble t’il aller à l’encontre de la définition que vous avez de l’Agilité?
+
+Nous allons jeter un coup d’œil sur certaines perceptions que les gens ont de l’Agilité. Celles où ont entends :
+
+“Oui mais en Agile, vous ne faites pas de doc”
+“Nous, on n’a pas de spec car nous sommes agiles”
+“On livre une première version tout de suite même si elle est buggé. C’est pas grave, en Agile on itère”
+with Christian Lapointe
+
+Software Craftsmanship: En pratique
+
+Comment le courant Software Craftsmanship, qui exalte les talents de programmation des développeurs, est-il compatible avec l’approche industrielle pratiquée par bon nombre d’acteurs de l’industrie du logiciel aujourd’hui ?
+
+Les approches agiles d’XP à Scrum n’ont-elles pas déjà adressé cette opposition, avec succès ?
+
+En quoi ces métaphores d’apprentis, mentors et d’artisanats datant de plusieurs siècles sont elles compatibles avec la pratique journalière de production de logiciel au 21ième siècle ?
+
+Dans cette session nous présenteront l’historique, et les bases du courant ””Software Craftsmanship”“. Nous aborderons ensuite plusieurs retours opérationnels de la mise en pratique de quelques techniques proposés par le mouvement, parmi lesquelles SOLID, conception objet, technique de testing, clean code.
+
+with Jean-Laurent de Morlhon
+
+Transition agile & Accompagnement au changement
+
+Des pressions externes grandissantes poussent les entreprises à changer leurs organisations pour s’adapter et développer la réactivité. Les SI, eux aussi sont impactés. L’agilité devient une alternative pertinente pour accélérer la mise en œuvre de produits et sécuriser les développements.
+
+Premier challenge : définir l’organisation agile adaptée au contexte de votre entreprise.
+
+Mais au-delà, la réelle complexité réside dans l’implication des hommes à tous les échelons. L’évolution des habitudes de travail doit être couplée à l’évolution des habitudes de conception des solutions informatiques. Je vous propose un premier cadre de réflexion sur la transition organisationnelle nécessaire au déploiement de l’agilité.
+
+with Romain Couturier
+
+The Kata In The Hat
+
+Programming is insanely hard. It’s discipline. It’s learning your code katas from inside out. It’s overcoming fear that you might write something buggy in a piece of software that will cost its owner millions of dollars. It is also fun, however. And while we do talk about it, we seldom do code for fun, just as a celebration of how much we love our coder’s life.
+
+This session is an attempt to change this. We’re going to code for fun. With the secret hope that some of the attendees will like what they’ll see, decide it’s the coolest thing to do, and make it happen everywhere on the planet.
+
+with Emmanuel Gaillot and Jonathan Perret
+
+Agile, sur un projet très court.
+
+Parfois, vos projets dureront moins de deux mois. Peut être parce que vous en avez besoin. Peut être parce que c’est votre client qui demande un délai court.
+
+Ces derniers temps, nous avons réalisé quelques projets de ce type. Nous y avons appris beaucoup - et parfois difficilement. Dans des délais si courts, certaines pratiques agiles doivent être adaptées, d’autres renforcées. Les règles changent : l’approche doit changer également.
+
+Nous aimerions partager avec vous notre expérience, et répondre à quelques questions clés :
+
+Que faut il pour commencer demain un tel projet ?
+Comment contractualiser, lorsque la vélocité met la moitié du temps du projet à se stabiliser ?
+Peut on faire de l’amélioration continue sur des temps si courts ?
+Où faut il porter l’attention pour la conduite d’un tel projet ?
+Nous esperons que cette session vous apportera toutes les billes pour réussir votre prochain projet.
+
+with Jonathan Scher and Guillaume Duquesnay
+
+Agilité et Testing: de l'intérêt d'une démarche structurée
+
+Comment réconcilier l’approche des tests structurés et les démarches Agile.
+
+with Julien Behr
+
+De Hermes RUP à Hermes Scrum
+
+Retour d’expérience à l’Administration Cantonale sur la mise en place de Scrum dans une équipe de maintenance évolutive avec des procédures de gestion de projet Hermes RUP et des stratégies de test TMap.
+
+Nous allons couvrir les différentes étapes de l’évolution de l’équipe SCRUM dans un monde standard. Les problèmes rencontrés et les solutions que nous avons trouvées.
+
+“YES WE CAN !!!”
+
+with Alexandre Cuva
+
+Devops et déploiement continu
+
+L’intégration continue est un premier pas vers un produit fonctionnel, mais il loin d’être suffisant. Déployer régulièrement augmente l’assurance que tout fonctionne correctement.
+
+A travers un retour d’expérience chez un éditeur logiciel, cette session tentera de vous apporter des idées pour tenter vous aussi le déploiement continu.
+
+On abordera le mouvement Devops et le changement culturel que cela implique, les outils de gestion de source ainsi que les outils d’intégration continu.
+
+with Sébastien Douche
+
+Documentation et agilité
+
+La documentation est une question récurrente des organisations qui découvrent le mode de fonctionnement agile pour les projets.
+
+Les bases du manifeste Agile “un logiciel opérationnel plutôt qu’une documentation exhaustive” ainsi que le fait de privilégier l’accueil du changement perturbent la logique actuelle dont les fondations reposent avant tout sur la documentation.
+
+Le but de cette présentation est de répondre aux interrogations que suscite la logique Agile. La documentation ne disparaît pas, c’est son rôle qui change. Sa forme, son contenu, son mode de production s’en trouvent affectés. En modifiant son point d’observation les choses deviennent plus claires.
+
+with Jean-François Jagodzinski
+
+J2EE m'a tuer ou comment (sur)vivre avec du legacy.
+
+Silverpeas est un produit créé en 1999 par une start-up qui a compté jusqu’à 40 développeurs. C’était l’époque bénie des Weblogic, Orion … où on savait coder avec UltraEdit32 et sans tests des EJBs BMP.
+
+Peut on continuer à faire évoluer un tel code ? Comment fait on pour continuer à faire vivre ce produit 10 ans après avec une équipe de 5 développeurs ?
+
+Ne comptez pas entendre parler des derniers frameworks à la mode, ici pas d’HTML5, de NoSQL, de Cloud ou iOS, il y aura du sang et de la sueur et Chuck Norris ne viendra pas vous sauver…
+
+with Emmanuel Hugonnet
+
+Agile qu'es aco : scrum xp lean
+
+Aujourd’hui l’agilité est “mainstream”. Comment s’y retrouver parmi les innombrables présentations, retours d’expérience qui se réclament de l’agilité ?
+
+Cette présentation vous propose un bref panorama de l’agilité, depuis ses débuts historiques jusqu’aux évolutions actuelles. Vous allez donc acquérir les informations qui vous permettront de vous forger viotre propre opinion et discerner ainsi ce qui est véritablement agile.
+
+with Thierry Cros
+
+Stewardship et motivation
+
+L’auto-organisation est à la base des pratiques agiles.
+
+Nous verrons lors de cet atelier les pratiques agiles qui vous permettent de véritablement vous auto-organiser.
+
+Nous reviendrons aux bases de l’agilité : responsabilité et hédonisme.
+
+with Thierry Cros
+
+Hands on Node.js
+
+La théorie, c’est bien, la pratique … aussi !
+
+Venez nous rejoindre pour découvrir les profondeurs de Node.js !
+
+Nous nous servirons d’un exemple pratique pour vous permettre d’avoir une premiere experience complete autour de Node.js et de vous permettre de vous forger un avis sur ce serveur Javascript qui fait parler de lui !
+
+with Mathilde Lemée and Romain Maton
+
+An Introduction to Social Architecture
+
+Pieter Hintjens introduces “Social Architecture”, the discipline of building online communities of volunteers.
+
+Hintjens introduces and explains a set of principles that help social architects plan, design, and steer communities from a few members to thousands of members. He explains with examples taken from existing communities, and successful communities that he has founded.
+
+with Pieter Hintjens
+
+Node.js
+
+Alors qu’on a vu ces dernières années fleurir des frameworks cherchant a masquer le javascript pour les développeurs (notamment GWT ou Vaadin), avoir un serveur web en Javascript peut surprendre. C’est pourtant ce que propose Node.js qui fait indéniablement le buzz depuis plusieurs mois.
+
+Vous découvrirez les bases de ce framework, ses atouts et ses faiblesses.
+
+with Mathilde Lemée and Romain Maton
+
+Data caching and data grids
+
+Infinispan is an open source caching and data grid platform from Red Hat. In this talk, Galder will provide a beginners guide to Infinispan, touching on the key problems that Infinispan solves such as the need to cache data (Data Caching) or using Infinispan as an authoritative source of data (Data Grid).
+
+Clustering data structures is important to provide the scalability and failover capabilities needed by modern applications, and so the talk will explain the techniques used to share data and what impact it has depending on the use case. On top of that, the audience will learn how popular frameworks are benefiting from integrating Infinispan such as Hibernate where Infinispan powers a low-latency second level cache. Since this is a ‘for Dummies’ talk, it will be full of easy-to-understand explanations, tear-out cheat sheets…etc.
+
+with Galder Zamarreño
+
+Data Duel: Data Grids vs Databases
+
+Relational Databases, better known as RDBMS, have been the de facto standard for persisting data, but the increasing storage requirements together with the need to scale and failover in a safe manner has made them either very inflexible or very expensive.
+
+Data Grids provide a solid alternative that address the scalability and failover problems in Databases while maintaining the same storage capabilities. Still, Databases are proven, mature and they’re well understood, so it’s important to understand that they still have a role to play in the enterprise world. This talk will present both data storage approaches, highlighting when to use one as opposed to the other, and vice versa. The audience will take home a better understanding of strengths and weaknesses of each approach, together with detailed information on the specifications, APIs and tools available for each use case.
+
+with Galder Zamarreño
+
+Messaging Patterns with RabbitMQ
+
+RabbitMQ is emerging as good solution for open source messaging in modern architectures. This opens new challenges on how to implement integration patterns in order to go beyond simple produce/consume applications. In this presentation we will show how to implement several messaging patterns using RabbitMQ as backend technology such as:
+
+Competing consumers
+RPC
+Parallel RPC
+Smart Proxy
+Publish/Subscribe
+The examples will be given in Erlang.
+
+with Alvaro Videla
+
+Déploiement continu sur le cloud avec SlipStream
+
+Le passage en production de toute application nécessite de franchir une série d’étapes - p. ex. construction, testes unitaires, déploiement en environnement de certification, testes fonctionnels, déploiement en production, maintenance, mise-à-jour). Ces étapes sont souvent, à l’heure actuelle, manuelles et donc prônes à l’erreur.
+
+De plus, dans un contexte agile, ou les équipes de développement sont amenées à ‘releaser’ souvent, ce besoin de passer en production crée en goulot d’étranglement important et peut être la source de stresses et frictions importantes.
+
+Avec l’avènement du cloud, de la virtualisation et des services en ligne (SaaS), une nouvelle génération de produits et services permet d’automatiser considérablement la chaine de production logiciel, permettant de déployer en continue et à la demande, des systèmes multi-tiers, pour créer des environnements de développement et testes proches de la production et ce en quelques minutes.
+
+Cette session propose un workshop, ou les participants pourront ‘apprendre en faisant’, ou la théorie et la pratique s’alternera pour permettre aux participants de créer et déployer une application sur un environnement de cloud, par petites étapes et de la tester.
+
+Cette session utilisera SlipStream, une application développée par SixSq et un cloud basé sur StratusLab, une solution open source européenne de cloud IaaS.
+
+Venez participer avec ou sans laptop !!
+
+with Marc-Elian Begin
+
+Un zeste d’Erlang dans le shaker!
+
+Les technologies logicielles se multiplient. Il faut savoir combiner les forces de plusieurs langages et outils. Erlang est la seule technologie conçue spécifiquement pour tirer parti très simplement des architectures multi-coeur et en cluster. Cette présentation vous invite à ajouter cet ingrédient à votre cocktail.
+
+Sommaire:
+
+- Aperçu du langage.
+- Démo de code, en TDD et en binôme, avec  du refactoring et de la mise à jour de code à chaud.
+- Points forts, points faibles, domaines et contextes adaptés.
+- Ecosystème (références, produits).
+- Cas d’étude: chat online de Facebook.
+with Dominic Williams and Fabrice Nourisson
+
+Java Boilerplate Busters
+
+Java has a reputation for boilerplate code: ubiquitous getters and setters, a verbose anonymous class syntax, and redundant declarations to name a few. It doesn’t have to be this way! There are many ways to bust the boilerplate and this session provides a solid understanding of the most modern techniques.
+
+Come learn about inversion of control idioms, Proxy objects, code generation tools, and the latest libraries that both create and manage boilerplate code so you don’t have to. A leaner, meaner codebase is yours for the taking.
+
+with Hamlet D'arcy
+
+Code Generation on the JVM: Writing Code that Writes Code
+
+“The Pragmatic Programmer” admonished us all to “write code that writes code”: use code generators to increase productivity and avoid duplication. Today’s language communities have clearly caught on, as more and more frameworks generate code at compile time: AST Transforms, Project Lombok, Spring Roo, Contracts for Java, Spock, GContracts, Groovy++, and more.
+
+This session reviews these approaches including examples of how and why we’d want to do this. Come see the newest Groovy language tools, look in-depth at production deployed AST Transforms, and view libraries based on these techniques.
+
+Audience: developers searching for cutting edge solutions to increasing team velocity.
+
+with Hamlet D'arcy
+
+Marre des frameworks ! Oui aux bons outils !
+
+Déjà cherché sans fin comment votre framework web favori doit être utilisé, configuré ou étendu pour développer cette nouvelle fonctionnalité qui vous tient tant à coeur ? Pourquoi l’utilisation des frameworks suit-elle un rythme immuable ? Tâtonnement -> Productivité -> Contorsion -> Frustration -> Complexité.
+
+En développant en live une application web et son framework “sur mesure”, je vais tenter de montrer les forces d’une approche “orientée outils”.
+
+with David Gageot
+
+Modeling with Eclipse
+
+Every developer uses models. Even when doing basic UI stuff, developers store data in some objects, that represent the business entity their application manages. These simple beans are models. People are so used to manipulate models that we now speak more and more of Model-Driven Development and Model-Driven Architecture. Models are now part of the common development landscape.
+
+Eclipse provides a very huge, consistent and powerful set of tools to deal with Modeling. Everything starts with the Eclipse Modeling Framework (EMF), which is so powerful that more than 70 projects have born in the Eclipse repositories to resolve common Modeling use-cases and issues on top of EMF!
+
+In this presentation, you’ll learn the basics of EMF and we will make a guided tour of the Modeling ecosystem at Eclipse, with some demos of the most famous tools in the area.
+
+with Mickaël Istria
+
+Rich Portlets in Liferay 6 with Vaadin
+
+Open-source Vaadin Framework provides a desktop-like programming model on the server for creating Rich Internet Applications (RIAs) in plain Java - without the need for HTML, XML, plug-ins or JavaScript.
+
+For enterprise application development, Liferay 6 open-source portal includes Vaadin as one of its pre-packaged frameworks for developing attractive, easy-to-use applications. With Vaadin developers can leverage Liferay as an as an application platform for both intranet and extranet web applications.
+
+This is an introduction to Vaadin on Liferay, and related developer tools. Attend the session to hear about the latest Vaadin trends and see a live demo what kind of applications you can create and deploy to Liferay in just a few minutes.
+
+with Sami Ekblad
+
+Tests d'intégration JavaEE avec Arquillian
+
+Avec les EJB 3, on a beaucoup mis en avant leur caractère POJO qui facilite la mise en oeuvre de tests unitaires ainsi que le conteneur autonome pour des tests d’intégration. On a vite constaté que ces possiblités étaient limitée et qu’ils manquait un outil dans cet ensemble.
+
+Les équipes de JBoss nous proposent Arquillian. Cet outil est capable de piloter les serveurs d’applications, d’y déployer des archives et de tester toute sorte de composant JavaEE dans leur jus, avec un effort minimal.
+
+Cette session est très pratique, elle montre comment utiliser Arquillian pour les tests d’intégration CDI, EJB, JPA, sur JBoss, Glassfish et Tomcat.
+
+with Alexis Hassler
+
+Clojure Values
+
+Une introduction à Clojure qui met l’accent sur la programmation par valeurs.
+
+Sans elle, pas de programmes plus simples à “faire tenir dans sa tête”, pas de gestion saine des états et encore moins de programmation concurrente !
+
+with Christophe Grand
+
+Java SE 7: The Fork/Join Framework and Project Coin
+
+This talk introduces part of the Java SE 7 novelties. The fork/join framework aims at making parallel programming simpler, while Project Coin brings a set of subtle yet useful changes to the Java programming language.
+
+with Julien Ponge
+
+JBoss AS 7, la révolution
+
+JBoss AS 7 est sorti pendant l’été 2011. Cette version est une véritable révolution pour tous les utilisateurs JBoss : temps de démarrage et de déploiement record, techniques d’administration renouvelées, configuration simplifiée et plus expressive,…
+
+Dans cette présentation, j’explique ces nouveautés et je les montre avec des vrais morceaux de ligne de commande.
+
+with Alexis Hassler
+
+Les cas d'usages d'un ESB
+
+La complexité et l’hétérogénéité des Systèmes d’Information (SI) n’a fait que croître ces dernières années, ainsi que les exigences qui lui sont demandés : flexibilité, agilité, maintenabilité, performance et bien entendu disponibilité. L’on observe que cette situation n’est plus réservée aux grosses organisations ou entreprises mais réellement se généralise à la majorité des Direction SI.
+
+L’Architecture orientée service (SOA) est une solution adaptée aux respects des exigences qui sont les nôtres aujourd’hui. En effet cette vision d’architecture d’entreprise privilégiant le découpage de son SI en Services Métiers réutilisables permet d’optimiser la maîtrise de son SI et la connaissance de son patrimoine Applicatif mais surtout nous permet de gagner en Réactivité pour l’alignement du SI avec les processus métiers, en flexibilité et aussi maintenabilité. Les bénéfices sont aussi intéressants au niveau de l’architecture technique, puisque la SOA permet de faciliter la scalabilité, d’optimiser la disponibilité et de réduire l’utilisation des ressources.
+
+L’un des vecteurs permettant la mise en place d’une architecture SOA efficace, est de disposer d’une infrastructure middleware : l’ESB (Entreprise Service Bus) ou Bus Logiciel permettant de bâtir une infrastructure de services pouvant répondre aux exigences des SI modernes : connexion, transformation, médiation, orchestration…
+
+Après un rappel des concepts et fonctionnalités d’un ESB et un focus sur l’architecture logiciel de PETALS ESB, nous proposerons d’illustrer l’intérêt de la mise en place de ce type de technologie par quelques cas d’usages d’un bus de services :
+
+Intégration du SI, Valorisation de son Patrimoine Applicatif, Réutilisation et passage vers la SOA maîtrisée
+Plateforme de Services ou d’échanges avec des Partenaires, Clients, Fournisseurs
+la Montée en Charge et la Haute Disponibilité du SI
+Architecture Répartie pour SI Etendus : proposer une alternative à la vision centralisée héritée de l’époque EAI.
+with Jean-Christophe Régnier
+
+GenevaJUG Coding Dojo
+
+L’équipe du GenevaJUG vous fera une présentation des coding dojo qu’elle organise durant toute l’année.
+
+Au programme TDD, que sont réellements les tests unitaires, les mocks, et quelques best practices.
+
+with Xavier Bourguignon and Maxime Nowak
+
+Pimp my unit tests !
+
+Suite au coding dojo, l’équipe du GenevaJUG continuera sa présentation avec la possibilité pour les participants de ramener du code existant et d’améliorer leurs test unitaires.
+
+with Xavier Bourguignon and Maxime Nowak
+
+The Early Days of the WWW at CERN
+
+The WWW system came into existence in 1989-1990 at CERN, the European Laboratory for Particle Physics located near Geneva, on the Swiss- French border, and was further developed there until 1995; THE GOAL: connect all the technical documents related to the LHC (Large Hadron Collider) project, both accelerator and experiments, where thousands of scientists, engineers and technicians scattered at hundreds of locations on the face of the planet are currently involved; THE SOLUTION: hypertext on the internet;
+
+The web, now a very popular service on the internet and widely used well beyond its original scope, was invented by Tim Berners-Lee and developed at CERN by a small team until it grew too big for the scope of the laboratory and was put in the public domain; the speaker has witnessed from close-by the birth of the idea and its development in the early days, acting as a facilitator and resource provider;
+
+Early documents related to this amazing adventure will be presented, together with personal recollections and lessons learned.
+
+with Paolo Palazzi
+
+Agile application life cycle management for cloud projects
+
+In this session, it will be presented a real case study regarding the Application Lifecycle Management of a project based on Azure.
+
+Cambridge actively works on Azure since one year and has delivered different solution based on SilverLight and ASP.net
+
+Scrum is a core pillar of Cambridge Delivery model, during the presentation it will be explained how TFS can support this delivery style and we’ll take a closer look to the new TFS Azure.
+
+with Sandro Caliz and Singaravelan Thangavelu
+
+Introduction au Kinect pour Windows
+
+De temps en temps, une nouvelle technologie arrive et transforme totalement notre vie de développeur, nous permettant de nous amuser de manière productive !
+
+Celle que je préfère personnellement, c’est la béta du nouveau SDK Kinect pour Windows, de Microsoft Research. Ce nouveau kit de développement vous permet de capturer les flux en provenance des capteurs de profondeur, de la caméra et du réseau de 4 microphones.
+
+Et le vrai bijou de ce kit, c’est la possibilité de suivre le « squelette » d’une ou de deux personnes en mouvement à l’intérieur du champ de vision du Kinect ; ainsi, il est très facile de créer des applications pilotées par gestes.
+
+Dans cette session, vous verrez comme débuter avec le Kinect pour Windows.
+
+with Ronnie Saurenmann
+
+Les nouveautés de Windows Azure
+
+De nombreuses annonces pour Windows Azure au cours de la conférence BUILD de Microsoft vont encore vous aider à simplifier vos développements, l’intégration de vos applications existantes et la mise en place de vraies plateformes de communications en profitant de toute la puissance d’Azure !
+
+with Benjamin Soulier
+
+Domotique et robotique avec le micro Framework .NET
+
+Le micro Framework .NET offre un environnement de développement et d’exécution complet et innovant. Il offre une programmation de haut niveau, par exemple en C#, permettant de gérer toutes les possibilités offertes par diverses carte électroniques modernes et performantes.
+
+Cette présentation a pour but de faire connaître le micro Framework .NET, son architecture et ses fonctionnalités, au travers d’exemples et de démonstrations dans les domaines de la domotique et de la robotique. La programmation, dans un environnement standard, ainsi que le matériel utilisé, très abordable à tous les points de vue, devraient permettre à chacun de s’initier sans peine à l’utilisation de l’informatique embarquée.
+
+with Jean-Claude Armici and Philippe Schutz
+
+Introduction to HTML5
+
+With Internet Explorer 9, Microsoft has entered the league of HTML 5 browsers and with its active participation in the W3C working groups, the company proves its engagements towards the new and emerging standards. Developers however are often left wondering where the boundaries are drawn between HTML5 web site, plug-in based rich internet application and smart client or “app”.
+
+This session intends to answer this question and uses many examples to show you some of the most important enhancements introduced by HTML5, CSS3, SVG, DOM, WOFF and ECMA script. You will learn now the standards are still evolving and how Microsoft is contributing.
+
+with Sascha Corti
+
+Java sur Windows Azure
+
+Lors de cette session, vous découvrirez comment développer des applications Java sur le Cloud, particulièrement sur le Cloud Azure de Microsoft
+
+with Valérie Alonso and Sébastien van den Bergh
+
+Windows Phone 7 „Mango“ – what’s new for Developers?
+
+Just a year after Windows Phone 7 was released to the market, Microsoft is updating the already widely popular platform to a new release called “Mango”, which adds a lot of highly anticipated features, especially for developers.
+
+This session will introduce you to what’s new in the Mango platform for you as a developer. Many samples will show you the latest additions including background agents, the new on-device database, how to make your application run in the background and how to create augmented-reality applications or create multiple live tiles per application, that can be easily updated from within the running app.
+
+with Sascha Corti
+
+C#5 : Vers un développement asynchrone
+
+De plus en plus, nous avons besoin d’applications réactives, fluides, exploitant les capacités en constantes évolutions de notre plateforme. Programmation souvent jugée comme complexe, peu accessible, la programmation asynchrone a souvent été évincée.
+
+Microsoft et sa prochaine évolution C#5.0, nous apporte les moyens de rendre nos applications totalement asynchrones, de manière très facile, rapide et accessible à tous.
+
+Nous verrons comment, à travers les standards actuels jusqu’à C#5, cette évolution nous apporte une réelle accessibilité du développement asynchrone, que ce soit en Web, RA.
+
+with Giovanni Clement
+
+De zéro à .NET en 55 minutes
+
+La plateforme .NET offre une richesse de technologies et possibilités pour développer toutes sortes d’applications.
+
+Cette session s’adresse aux développeurs qui ne sont pas encore familiers avec la plateforme .NET et a pour but de présenter un survol du framework et des technologies .NET.
+
+A l’aide de nombreuses démonstrations en live, vous allez voir comment utiliser les différentes technologies:
+
+La création d’un Data Access Layer montrera le développement Code-First avec Entity Framework.
+Pour la mise à disposition des données, un Service Layer basé sur WCF sera implémenté.
+ASP.NET MVC et Silverlight nous serviront pour mettre en place une interface utilisateur.
+with Markus Peter
+
+Développez pour l’interface de la prochaine version de Windows, en C++, C#, VB, ou HTML5/Javascript !
+
+Le nouveau Windows, nom de code « 8 », introduit une toute nouvelle interface. En plus d’une ergonomie innovante, elle est exploitable sur les PC traditionnels comme sur la nouvelle génération de tablettes.
+
+Que vous soyez expert en C++, C#, VB, ou HTML5/Javascript, venez découvrir comment capitaliser sur vos acquis et développer pour le futur.
+
+Nous exploiterons aussi le nouveau socle applicatif WinRT qui rend le développement particulièrement facile.
+
+with Benjamin Soulier
+
+Le futur de Windows, présentation et nouveautés pour le développeur
+
+Cette session vous permettra de découvrir le nouveau Windows, nom de code « 8 », les nouveautés au niveau de l’ergonomie et des usages, mais aussi les nouveautés pour le développeur.
+
+Cette session sera illustrée par de nombreuses démonstrations réalisées sur une vrai tablette Windows « 8 », dont le portage d’une application XAML/C# vers Windows « 8 ».
+
+with Nicolas Clerc
+
+Android Fragmentation - API & hardware fragmentation
+
+Fragmentation on the Android platform comes in several flavors. Mobile devices in the wild can differ on their installed Android version, their screen size/resolution and their supported hardware features. With the advent of Android tablets the platform adds a new class of supported hardware to its portfolio.
+
+The workshop addresses all types of fragmentation with a focus on UI design and the new fragments API.
+
+with Andreas Hölzl and Andrei Socaciu
+
+Android Fragmentation - supporting multiple screens
+
+Fragmentation on the Android platform comes in several flavors. Mobile devices in the wild can differ on their installed Android version, their screen size/resolution and their supported hardware features. With the advent of Android tablets the platform adds a new class of supported hardware to its portfolio.
+
+The workshop addresses all types of fragmentation with a focus on UI design and the new fragments API.
+
+with Andreas Hölzl and Andrei Socaciu
+
+Android Fragmentation - tablet UIs
+
+Fragmentation on the Android platform comes in several flavors. Mobile devices in the wild can differ on their installed Android version, their screen size/resolution and their supported hardware features. With the advent of Android tablets the platform adds a new class of supported hardware to its portfolio.
+
+The workshop addresses all types of fragmentation with a focus on UI design and the new fragments API.
+
+with Andreas Hölzl and Andrei Socaciu
+
+Cross platform development using Unity3d
+
+This session aims at describing how Unity3d and its ecosystem can be used for cross platform development for IOS, Android but also Web, PC and MAC for developing various apps, business apps and of course games and serious games. It describes the capabilities provided by Unity3d and its huge third party add-ons ecosystem and provides valuable experience on using it.
+
+with Stephane Intissar
+
+Taking your web app for a walk
+
+Mobile smart devices (aka smart phones) have taken the world by stom. As more an more devices are being activated, more applications need to be written for those devices. Even though iOS is dominant, other players are making inroads and need software as well. Developing native apps for iOS, Android, BlackBerry, Windows Phone, Web OS and Nokia is an expensive proposition however. Thankfully, there is HTML5 and JavaScript, which are supported on all mobile operating systems.
+
+This sessions shows how to develop a “native looking” application that can be installed through the various app stores like a native application, but written entirely in HTML5 and CSS. Using frameworks like jQuery mobile or Sencha and tying everything together with PhoneGap, it is possible to develop cross plattform native mobile applications.”
+
+with Jens-Christian Fischer
+
+Using iOS view controllers wisely
+
+This talk will discuss best practices for working with iOS view controller objects. It will cover basics about view controllers (what they are, which events they respond to), as well as advanced topics like view controller container implementation.
+
+Session in french.
+
+with Samuel Défago
+
+Attacking iPhone and iPad applications
+
+“Security is often neglected by developers, by lack of knowledge or because it is not anticipated. Sometimes security preoccupations begin very late in the project, sometimes even after the initial launch of the application. This is clearly contradictory to any Agile approach: security has to be taken into account from the beginning and during the whole life of a system.
+
+We will demonstrate with real-life examples common security problems of iPhone and iPad applications and which measures to take to avoid them.”
+
+with Sebastien Andrivet
+
+iPhone in Enterprise: in-house deployment & development case study
+
+Reports our experience deploying iPhone devices to all Logica Switzerland employees with enterprise policies embedded and connection to internal messaging servers (VPN, Microsoft Exchange, iPhone Provisioning Profiles).
+
+with Sébastien Fabbri and Valentin Jacquemin
+
+Mettre en place un atelier logiciel pour iOS
+
+Présentation rapide de l’usine logicielle mise en place sur nos projets.
+
+Atelier :
+
+faire un petit projet XCode en TDD
+mettre en place le repository Git
+faire un makefile et l’intégrer dans Jenkins
+mettre en place un déploiement OverTheAir via notre serveur de déploiement
+with Claude Falguière
+
+MVC Development in the Browser
+
+“Until quite recently, Javascript was not taken seriously as a language. It was the distant cousin of the animated gif and blink tag, usually kept turned off and seen as a security risk. Recently, taking a cue from Ruby on Rails, Django and other web application frameworks, small web application frameworks have begun to appear. These frameworks, built on top of jQuery or other libraries allow the creation of single page applications and address some of the problems associated with Javascript development, such as unique urls and code organization and structure.
+
+with Keith Bingman
+
+Flex Multi-screen
+
+Cette présentation permet de montrer les possibilités de Flex pour du développement multi plateforme et de faire tourner le même code sur différents OS d’appareils mobiles (iOS, Android, Blackberry Tablet OS…).
+
+Elle s’appuie sur un retour d’expérience de développement permettant de montrer les performances d’une application d’entreprise sur les différents appareils.
+
+with Nicolas Peru and Eric Pascal
